@@ -10,7 +10,7 @@ export const Counter: React.VFC = () => {
       <p>This is a simple example of a React component.</p>
 
       <p aria-live="polite">Current count: <strong>{count}</strong></p>
-      <label>Set value to:</label>
+      <label>Set value to a new value:</label>
       <input defaultValue={count} 
         onBlur={(event: React.FocusEvent<HTMLInputElement>) => 
           setCount(+event.target.value)} />
