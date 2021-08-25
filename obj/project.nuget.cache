@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ux6ShHlnL0O8E5i2kI5RnLiQ2oCB+00vZ1LVMBX+pEmNgpy3wF8YYe+kd+o6aRcvwmmWsncg2+5Oqmw+/gNBNQ==",
+  "success": true,
+  "projectFilePath": "/Users/melvinray/SPA.WebApp/SPA.WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/melvinray/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.6/microsoft.aspnetcore.spaservices.extensions.5.0.6.nupkg.sha512",
+    "/Users/melvinray/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/melvinray/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/melvinray/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/melvinray/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
